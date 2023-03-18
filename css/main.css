@@ -1,1 +1,17 @@
-
+h1 {
+  background-color: #FAF8DB;
+  font-family: fantasy;
+  font-size: 25px;
+  font-color: #64DFF5;
+}
+body {
+  background-color: #FFFFFF;
+  font-size: 12px;
+}
+img {
+  border-radius: 8px;
+  border: 5px solid #000000;
+}
+  
+  
+  
