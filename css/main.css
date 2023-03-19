@@ -13,7 +13,7 @@ body {
 img {
   border-radius: 8px;
 }
-a {
+iframe {
   border: 3px;
   border-style: dashed;
 }
