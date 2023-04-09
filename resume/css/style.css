@@ -19,3 +19,9 @@ ul
 	max-width:570px;
 	padding:0;
 }
+
+p em
+{
+	color:rgba(0,0,0,1);
+	font-style:normal;
+}
