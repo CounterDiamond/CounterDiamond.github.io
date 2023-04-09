@@ -28,5 +28,5 @@ div
 div.header
 {
 	border-style: dotted;
-	font-color: red;
+	color: red;
 }
