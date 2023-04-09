@@ -20,12 +20,7 @@ ul
 	padding:0;
 }
 
-em
-{
-	color: red;
-}
-
 div
 {
-	border:3px solid black;	
+	color: red;
 }
