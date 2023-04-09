@@ -22,5 +22,11 @@ ul
 
 div
 {
-	color: red;
+	border-style: solid;
+}
+
+div.header
+{
+	border-style: dotted;
+	font-color: red;
 }
